@@ -27,5 +27,5 @@ todo:
 private links:
 -------
 - [md](http://gitbookio.gitbooks.io/markdown/)
-- [edit](https://github.com/shahar11/shahar11.github.io/edit/master/README.md)
-- [css](https://github.com/shahar11/shahar11.github.io/generated_pages/new)
+- [edit](https://github.com/amanecer2/amanecer2.github.io/edit/master/README.md)
+- [css](https://github.com/amanecer2/amanecer2.github.io/generated_pages/new)
