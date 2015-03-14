@@ -4,7 +4,7 @@ Shahar - C.V
 Frameworks
 -----
 - selenium
-
+- 
 O.S
 ------
 - Windows
@@ -16,6 +16,15 @@ Programming languages:
 - javascript
 - java
 
+Client :
+- html5
+- css3(Bootstrap)
+- javaScript(JQuery)
+- android
+
+Integrated Development Environment:
+- Eclipse
+- Android studio
 
 
 
