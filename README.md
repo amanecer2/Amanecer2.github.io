@@ -3,7 +3,7 @@ Shahar - C.V
 
 Frameworks
 -----
-- selenium
+-
 - 
 O.S
 ------
@@ -11,23 +11,23 @@ O.S
 - Android
 - linux (Ubuntu)
 
-Programming languages:
+Programming languages
 -----
 - javascript
 - java
 
-Client :
+Client
+
 - html5
 - css3(Bootstrap)
 - javaScript(JQuery)
 - android
+-----
+Integrated Development Environment
 
-Integrated Development Environment:
 - Eclipse
 - Android studio
-
-
-
+-----
 todo:
 -----
 - upload the recent android project to github
